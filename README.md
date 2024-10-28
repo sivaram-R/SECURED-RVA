@@ -36,6 +36,7 @@ The Secured Voting Application ensures voter data security and integrity while o
 
 This project demonstrates the practical integration of cryptographic principles and government authentication services, contributing to the advancement of secure e-governance solutions.
 
-Articles published / References
-Enhanced Security in Digital Voting Systems through SHA-256 and UIDAI API Integration, E-Governance Insights, vol. 5, March 2024.
+## Articles published / References
+
+Enhanced Security in Digital Voting Systems through SHA-256 and UIDAI API Integration, E-Governance Insights, vol. 5, March 2024.                            
 Privacy and Security in Voting Applications: A Case Study on SHA-256 Encryption and UIDAI API, Technology for Good Journal, vol. 3, Jan. 2024.

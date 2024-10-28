@@ -17,14 +17,14 @@ The Secured Voting Application enhances traditional voting systems by incorporat
 
 ## Requirements
 
-1.Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with the authentication and encryption frameworks.
-2.Development Environment: Python 3.7 or later.
-3.Security Libraries: hashlib for SHA-256 implementation, PyCrypto for advanced cryptographic tasks.
-4.API Integration Libraries: Requests library for interfacing with UIDAI API.
-5.Database Management: MongoDB or PostgreSQL for secure data storage.
-6.Version Control: Git for collaborative development and efficient code management.
-7.IDE: VSCode for streamlined coding, debugging, and version control integration.
-8.Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.
+1.Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with the authentication and encryption frameworks.            
+2.Development Environment: Python 3.7 or later.           
+3.Security Libraries: hashlib for SHA-256 implementation, PyCrypto for advanced cryptographic tasks.         
+4.API Integration Libraries: Requests library for interfacing with UIDAI API.           
+5.Database Management: MongoDB or PostgreSQL for secure data storage.          
+6.Version Control: Git for collaborative development and efficient code management.           
+7.IDE: VSCode for streamlined coding, debugging, and version control integration.                  
+8.Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.                   
 
 ## System Architecture
 

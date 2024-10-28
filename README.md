@@ -8,20 +8,20 @@ The Secured Voting Application project is designed to provide a secure, efficien
 The Secured Voting Application enhances traditional voting systems by incorporating modern cryptographic techniques and government-based authentication to protect voter privacy and validate identities. It minimizes the risk of data tampering or voter fraud, aiming to create a secure voting platform accessible to users.
 
 ## Features
-SHA-256 encryption for secure data handling.
-Integration with the UIDAI API for user authentication.
-User-friendly interface for seamless interaction and ease of access.
-High scalability for extensive user base handling.
-JSON data format for structured responses and compatibility.
+1.SHA-256 encryption for secure data handling.
+2.Integration with the UIDAI API for user authentication.
+3.User-friendly interface for seamless interaction and ease of access.
+4.High scalability for extensive user base handling.
+5.JSON data format for structured responses and compatibility.
 ## Requirements
-Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with the authentication and encryption frameworks.
-Development Environment: Python 3.7 or later.
-Security Libraries: hashlib for SHA-256 implementation, PyCrypto for advanced cryptographic tasks.
-API Integration Libraries: Requests library for interfacing with UIDAI API.
-Database Management: MongoDB or PostgreSQL for secure data storage.
-Version Control: Git for collaborative development and efficient code management.
-IDE: VSCode for streamlined coding, debugging, and version control integration.
-Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.
+1.Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with the authentication and encryption frameworks.
+2.Development Environment: Python 3.7 or later.
+3.Security Libraries: hashlib for SHA-256 implementation, PyCrypto for advanced cryptographic tasks.
+4.API Integration Libraries: Requests library for interfacing with UIDAI API.
+5.Database Management: MongoDB or PostgreSQL for secure data storage.
+6.Version Control: Git for collaborative development and efficient code management.
+7.IDE: VSCode for streamlined coding, debugging, and version control integration.
+8.Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.
 ## System Architecture
 
 

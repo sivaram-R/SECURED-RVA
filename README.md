@@ -9,11 +9,11 @@ The Secured Voting Application enhances traditional voting systems by incorporat
 
 ## Features
 
-1.SHA-256 encryption for secure data handling.
-2.Integration with the UIDAI API for user authentication.
-3.User-friendly interface for seamless interaction and ease of access.
-4.High scalability for extensive user base handling.
-5.JSON data format for structured responses and compatibility.
+1.SHA-256 encryption for secure data handling.                         
+2.Integration with the UIDAI API for user authentication.                              
+3.User-friendly interface for seamless interaction and ease of access.                            
+4.High scalability for extensive user base handling.                             
+5.JSON data format for structured responses and compatibility.                       
 
 ## Requirements
 

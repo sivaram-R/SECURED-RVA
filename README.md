@@ -26,10 +26,11 @@ The Secured Voting Application enhances traditional voting systems by incorporat
 7.IDE: VSCode for streamlined coding, debugging, and version control integration.                  
 8.Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.                   
 
-## Output
-Home page
+## Outputs
+
+### Home page
 ![1](https://github.com/user-attachments/assets/f0dafb79-6984-4635-8768-6676025d3bfc)
-How its works
+### How its works
 ![2](https://github.com/user-attachments/assets/44813a1f-a3c5-4ea9-b2ea-fa83821306b8)
 Rules and regulations
 ![3](https://github.com/user-attachments/assets/d64cbef7-17b1-43f1-9ea6-c06a5fa56a51)
@@ -44,13 +45,14 @@ Login page
 Forgot password  
 ![Picture3](https://github.com/user-attachments/assets/b2646fd9-07e2-432a-ae03-41bea9c7a674)
 Creating new password 
-![Uploading Picture4.png…]()
+![Picture4](https://github.com/user-attachments/assets/7384cda2-1065-4798-bba9-8bf4dca1e393)
 Choose your canditate
-![Uploading Picture5.png…]()
+![Picture5](https://github.com/user-attachments/assets/747ad885-906c-475d-b982-ce809f888a5a)
 Voting selected canditate
 ![Picture6](https://github.com/user-attachments/assets/8108fc11-8040-4778-bf31-fc402ac6836f)
 Voting done
-![Uploading Picture7.png…]()
+![Picture7](https://github.com/user-attachments/assets/6bea4de0-aeb1-49cb-a71e-18af81b14a0e)
+
 
 ## Results and Impact
 The Secured Voting Application ensures voter data security and integrity while offering a transparent and accessible voting process. By leveraging SHA-256 encryption and UIDAI-based authentication, this application minimizes fraudulent activities and sets a standard for secure digital voting systems.

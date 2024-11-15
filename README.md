@@ -32,25 +32,25 @@ The Secured Voting Application enhances traditional voting systems by incorporat
 ![1](https://github.com/user-attachments/assets/f0dafb79-6984-4635-8768-6676025d3bfc)
 ### How its works
 ![2](https://github.com/user-attachments/assets/44813a1f-a3c5-4ea9-b2ea-fa83821306b8)
-Rules and regulations
+## Rules and regulations
 ![3](https://github.com/user-attachments/assets/d64cbef7-17b1-43f1-9ea6-c06a5fa56a51)
-Query page
+## Query page
 ![4](https://github.com/user-attachments/assets/4896717d-f84d-442d-a869-54658bcec6e3)
-posting query
+## posting query
 ![5](https://github.com/user-attachments/assets/7ea9c2f8-a4d8-4f4e-b1e1-2e458323b0a5)
-Registration   
+## Registration   
 ![Picture1](https://github.com/user-attachments/assets/ae2d96e6-f0f6-450b-89bf-e326a4085789)
-Login page  
+## Login page  
 ![Picture2](https://github.com/user-attachments/assets/20a14ffb-8869-4251-a7cf-dbd3f8c106ff)
-Forgot password  
+## Forgot password  
 ![Picture3](https://github.com/user-attachments/assets/b2646fd9-07e2-432a-ae03-41bea9c7a674)
-Creating new password 
+## Creating new password 
 ![Picture4](https://github.com/user-attachments/assets/7384cda2-1065-4798-bba9-8bf4dca1e393)
-Choose your canditate
+## Choose your canditate
 ![Picture5](https://github.com/user-attachments/assets/747ad885-906c-475d-b982-ce809f888a5a)
-Voting selected canditate
+## Voting selected canditate
 ![Picture6](https://github.com/user-attachments/assets/8108fc11-8040-4778-bf31-fc402ac6836f)
-Voting done
+## Voting done
 ![Picture7](https://github.com/user-attachments/assets/6bea4de0-aeb1-49cb-a71e-18af81b14a0e)
 
 

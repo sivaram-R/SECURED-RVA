@@ -26,17 +26,32 @@ The Secured Voting Application enhances traditional voting systems by incorporat
 7.IDE: VSCode for streamlined coding, debugging, and version control integration.                  
 8.Additional Dependencies: Includes Flask for backend API setup, and RESTful API libraries for secure interactions with frontend.                   
 
-## System Architecture
-
-
 ## Output
+Home page
+![1](https://github.com/user-attachments/assets/f0dafb79-6984-4635-8768-6676025d3bfc)
+How its works
+![2](https://github.com/user-attachments/assets/44813a1f-a3c5-4ea9-b2ea-fa83821306b8)
+Rules and regulations
+![3](https://github.com/user-attachments/assets/d64cbef7-17b1-43f1-9ea6-c06a5fa56a51)
+Query page
+![4](https://github.com/user-attachments/assets/4896717d-f84d-442d-a869-54658bcec6e3)
+posting query
+![5](https://github.com/user-attachments/assets/7ea9c2f8-a4d8-4f4e-b1e1-2e458323b0a5)
+Registration   
+![Picture1](https://github.com/user-attachments/assets/ae2d96e6-f0f6-450b-89bf-e326a4085789)
+Login page  
+![Picture2](https://github.com/user-attachments/assets/20a14ffb-8869-4251-a7cf-dbd3f8c106ff)
+Forgot password  
+![Picture3](https://github.com/user-attachments/assets/b2646fd9-07e2-432a-ae03-41bea9c7a674)
+Creating new password 
+![Uploading Picture4.png…]()
+Choose your canditate
+![Uploading Picture5.png…]()
+Voting selected canditate
+![Picture6](https://github.com/user-attachments/assets/8108fc11-8040-4778-bf31-fc402ac6836f)
+Voting done
+![Uploading Picture7.png…]()
 
 ## Results and Impact
 The Secured Voting Application ensures voter data security and integrity while offering a transparent and accessible voting process. By leveraging SHA-256 encryption and UIDAI-based authentication, this application minimizes fraudulent activities and sets a standard for secure digital voting systems.
 
-This project demonstrates the practical integration of cryptographic principles and government authentication services, contributing to the advancement of secure e-governance solutions.
-
-## Articles published / References
-
-Enhanced Security in Digital Voting Systems through SHA-256 and UIDAI API Integration, E-Governance Insights, vol. 5, March 2024.                            
-Privacy and Security in Voting Applications: A Case Study on SHA-256 Encryption and UIDAI API, Technology for Good Journal, vol. 3, Jan. 2024.
